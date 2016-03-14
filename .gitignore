@@ -1,0 +1,7 @@
+# bin and target are typically output directories (containing compiled Java classes) for Eclipse and IntelliJ.
+target/
+bin/
+
+# Ignore all binary files
+*.class
+*.jar
