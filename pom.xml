@@ -8,6 +8,9 @@
     <version>1.0.0</version>
     <packaging>pom</packaging>
     <name>Ghim Parent Module</name>
+    <description>
+        Parent module.
+    </description>
 
     <modules>
         <module>server</module>
